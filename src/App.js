@@ -65,3 +65,4 @@ const ProtectedRoute = ({ children }) => {
 };
 
 export default App;
+
